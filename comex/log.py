@@ -1,0 +1,1 @@
+comEx_logger_name = "comex.logger"
